@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'jQuery Plugins'\jQuery-Plugins\02. Plugin for Fading Message\bin\_02.Plugin_for_Fading_Message.dll.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'jQuery Plugins'\jQuery-Plugins\02. Plugin for Fading Message\bin\_02.Plugin_for_Fading_Message.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'jQuery Plugins'\jQuery-Plugins\02. Plugin for Fading Message\bin\_02.Plugin_for_Fading_Message.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'jQuery Plugins'\jQuery-Plugins\02. Plugin for Fading Message\obj\Debug\_02.Plugin_for_Fading_Message.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'jQuery Plugins'\jQuery-Plugins\02. Plugin for Fading Message\obj\Debug\_02.Plugin_for_Fading_Message.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript 2\Solution 'jQuery Plugins'\jQuery-Plugins\02. Plugin for Fading Message\obj\Debug\_02.Plugin_for_Fading_Message.pdb
